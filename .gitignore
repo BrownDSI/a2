@@ -3,6 +3,7 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.nbgrader.log
 
 # MacOS Finder
 .DS_Store
